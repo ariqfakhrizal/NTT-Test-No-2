@@ -12,3 +12,17 @@ D:\Workspace\Target Company\NTT Ltd\NTT_Test_No_2\obj\Debug\net7.0\refint\NTT_Te
 D:\Workspace\Target Company\NTT Ltd\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.pdb
 D:\Workspace\Target Company\NTT Ltd\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.genruntimeconfig.cache
 D:\Workspace\Target Company\NTT Ltd\NTT_Test_No_2\obj\Debug\net7.0\ref\NTT_Test_No_2.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.AssemblyInfoInputs.cache
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.AssemblyInfo.cs
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\refint\NTT_Test_No_2.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.pdb
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\bin\Debug\net7.0\NTT_Test_No_2.exe
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\bin\Debug\net7.0\NTT_Test_No_2.deps.json
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\bin\Debug\net7.0\NTT_Test_No_2.runtimeconfig.json
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\bin\Debug\net7.0\NTT_Test_No_2.dll
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\bin\Debug\net7.0\NTT_Test_No_2.pdb
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\NTT_Test_No_2.genruntimeconfig.cache
+D:\Workspace\Github\NTT Ltd Pte - Github\ProgrammingTest_No_2\NTT-Test-No-2\NTT_Test_No_2\obj\Debug\net7.0\ref\NTT_Test_No_2.dll

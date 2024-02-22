@@ -5,14 +5,21 @@ namespace NTT_Test_No_2.MSTest
     {
 
         [TestMethod]
-        public void FunctionHitung_ReturnTrue()
+        [DataRow(1, 21, 3)]
+        public void SoalRandom_FunctionHitung_ReturnTrue(int numberEnteredTestX, int numberEnteredTestY, int numberEnteredTestZ)
         {
-            int x = 1;
-            int y = 21;
-            int z = 3;
+            var actualResult = NTT.NTT_Test_No_2.functionHitung(numberEnteredTestX, numberEnteredTestY, numberEnteredTestZ);
+            string expectedResult = "3, 6, 9, 12, 15, 18, 21";
+            Assert.AreEqual(expectedResult, actualResult);
+        }
 
-            var result = NTT.NTT_Test_No_2.functionHitung(x,y,z);
-            Assert.AreEqual("3, 6, 9, 12, 15, 18, 21", result);
+        [TestMethod]
+        [DataRow(1, 15, 3)]
+        public void SoalA_FunctionHitung_ReturnTrue(int numberEnteredTestX, int numberEnteredTestY, int numberEnteredTestZ)
+        {
+            var actualResult = NTT.NTT_Test_No_2.functionHitung(numberEnteredTestX, numberEnteredTestY, numberEnteredTestZ);
+            string expectedResult = "3, 6, 9, 12, 15";
+            Assert.AreEqual(expectedResult, actualResult);
         }
     }
 }

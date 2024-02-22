@@ -6,43 +6,43 @@ namespace NTT
 {
     public class NTT_Test_No_2
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Input X: ");
-            int x = Convert.ToInt32(Console.ReadLine());
+            int numberEnteredX = Convert.ToInt32(Console.ReadLine());
 
 
             Console.Write("Input Y: ");
-            int y = Convert.ToInt32(Console.ReadLine());
+            int numberEnteredY = Convert.ToInt32(Console.ReadLine());
 
 
             Console.Write("Input Z: ");
-            int z = Convert.ToInt32(Console.ReadLine());
+            int numberEnteredZ = Convert.ToInt32(Console.ReadLine());
 
-            string result = functionHitung(x, y, z);
+            string numberEnteredResult = functionHitung(numberEnteredX, numberEnteredY, numberEnteredZ);
 
             Console.WriteLine();
-            Console.WriteLine("Output Z(" + z + "), i.e : " + result.ToString());
+            Console.WriteLine("Output Z(" + numberEnteredZ + "), i.e : " + numberEnteredResult.ToString());
         }
 
-        public static string functionHitung(int x, int y, int z)
+        public static string functionHitung(int numberEnteredX, int numberEnteredY, int numberEnteredZ)
         {
             try
             {
-                StringBuilder result = new StringBuilder();
+                StringBuilder stringBuilderResult = new StringBuilder();
 
-                for (int start = x; start <= y; start++)
+                for (int start = numberEnteredX; start <= numberEnteredY; start++)
                 {
-                    if (start % z == 0)
+                    if (start % numberEnteredZ == 0)
                     {
-                        result.Append(start);
+                        stringBuilderResult.Append(start);
 
-                        if (start < y)
-                            result.Append(", ");
+                        if (start < numberEnteredY)
+                            stringBuilderResult.Append(", ");
                     }
                 }
 
-                return result.ToString();
+                return stringBuilderResult.ToString();
             }
             catch (Exception ex)
             {
